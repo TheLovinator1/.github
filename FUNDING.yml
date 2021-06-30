@@ -10,6 +10,4 @@ liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
 # custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
-custom: ['paypal.me/TheLovinator1']
-bitcoin: bc1qmk23a290360tyu27pqhfexvygqnpencg4zca2f
-monero: 424UAPomaoWfnEAWDFgbWFe5BZ59brcJqddAP5MP9F9GNgapgmZtGdWTaZCaCAnZm1L8SUy7NwnZvBXsqshfXTWiRuB84m8
+custom: ['paypal.me/TheLovinator1', 'bc1qmk23a290360tyu27pqhfexvygqnpencg4zca2f', '424UAPomaoWfnEAWDFgbWFe5BZ59brcJqddAP5MP9F9GNgapgmZtGdWTaZCaCAnZm1L8SUy7NwnZvBXsqshfXTWiRuB84m8']
